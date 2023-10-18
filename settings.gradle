@@ -1,1 +1,1 @@
-include ':sample', ':countrycodepicker', ':sampletv'
+include  ':sampletv', ':ccp'
